@@ -1,2 +1,1 @@
-<p>this aiml pathway</p>
-<p>hellow world</p>
+<p>this is aiml path way </p>
