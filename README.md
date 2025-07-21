@@ -1,1 +1,1 @@
-<p>this is aiml path way </p>
+wellcome to bvvs
